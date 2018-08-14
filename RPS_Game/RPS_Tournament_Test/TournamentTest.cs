@@ -29,7 +29,6 @@ namespace RPS_Tournament_Test
             gameOne.AddRange(_playerSeven);
             gameOne.AddRange(_playerEight);
 
-
             var tournament = new Tournament();
             var winner = tournament.rps_tournament_winner(gameOne);
             Assert.AreEqual(_playerThree[0], winner.PlayerName);
