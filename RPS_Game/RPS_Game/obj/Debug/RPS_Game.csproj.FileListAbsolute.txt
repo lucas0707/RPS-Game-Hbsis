@@ -1,0 +1,7 @@
+C:\Git\RPS_Game\RPS_Game\RPS_Game\bin\Debug\RPS_Game.exe.config
+C:\Git\RPS_Game\RPS_Game\RPS_Game\bin\Debug\RPS_Game.exe
+C:\Git\RPS_Game\RPS_Game\RPS_Game\bin\Debug\RPS_Game.pdb
+C:\Git\RPS_Game\RPS_Game\RPS_Game\obj\Debug\RPS_Game.csprojAssemblyReference.cache
+C:\Git\RPS_Game\RPS_Game\RPS_Game\obj\Debug\RPS_Game.csproj.CoreCompileInputs.cache
+C:\Git\RPS_Game\RPS_Game\RPS_Game\obj\Debug\RPS_Game.exe
+C:\Git\RPS_Game\RPS_Game\RPS_Game\obj\Debug\RPS_Game.pdb

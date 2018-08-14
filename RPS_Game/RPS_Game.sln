@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS_Game", "RPS_Game\RPS_Game.csproj", "{DA47C494-DB12-44DB-BF72-014DF30FEB18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPS_Tournament_Test", "RPS_Tournament_Test\RPS_Tournament_Test.csproj", "{77DCF78E-D708-4741-93F0-0698CA64D93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA47C494-DB12-44DB-BF72-014DF30FEB18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA47C494-DB12-44DB-BF72-014DF30FEB18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA47C494-DB12-44DB-BF72-014DF30FEB18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA47C494-DB12-44DB-BF72-014DF30FEB18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77DCF78E-D708-4741-93F0-0698CA64D93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DCF78E-D708-4741-93F0-0698CA64D93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DCF78E-D708-4741-93F0-0698CA64D93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DCF78E-D708-4741-93F0-0698CA64D93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F62D2FF1-45B5-4837-82BA-E2EF759CD1B5}
+	EndGlobalSection
+EndGlobal

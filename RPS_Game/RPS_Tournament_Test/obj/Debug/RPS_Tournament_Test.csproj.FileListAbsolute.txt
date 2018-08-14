@@ -1,0 +1,17 @@
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\RPS_Tournament_Test.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\RPS_Tournament_Test.pdb
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\RPS_Game.exe
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\RPS_Game.pdb
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\RPS_Game.exe.config
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\obj\Debug\RPS_Tournament_Test.csprojAssemblyReference.cache
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\obj\Debug\RPS_Tournament_Test.csproj.CoreCompileInputs.cache
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\obj\Debug\RPS_Tournament_Test.csproj.CopyComplete
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\obj\Debug\RPS_Tournament_Test.dll
+C:\Git\RPS_Game\RPS_Game\RPS_Tournament_Test\obj\Debug\RPS_Tournament_Test.pdb
