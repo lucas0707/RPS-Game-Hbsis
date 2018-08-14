@@ -20,17 +20,6 @@ namespace RPS_Game
 
             var numberOfPlayers = players.Count / 2;
 
-            ////First round
-            //for (int i = 0; i <= players.Count; i += 3)
-            //{
-            //    var roundPlayers = new List<string>(); ;
-            //    roundPlayers.Add(players[i]);
-            //    roundPlayers.Add(players[i + 1]);
-            //    roundPlayers.Add(players[i + 2]);
-            //    roundPlayers.Add(players[i + 3]);
-            //    winners.Add(round.rps_game_winner(roundPlayers));
-            //}
-
             while (numberOfPlayers > 1)
             {
                 for (int i = 0; i < numberOfPlayers; i += 2)
