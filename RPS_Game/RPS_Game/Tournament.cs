@@ -13,7 +13,7 @@ namespace RPS_Game
 
         public Play rps_tournament_winner(List<string> players)
         {
-            if (players.Count % 2 != 0)
+            if (players.Count / 2 % 2 != 0)
             {
                 throw new WrongNumberOfPlayersError("Number of players is invalid.");
             }

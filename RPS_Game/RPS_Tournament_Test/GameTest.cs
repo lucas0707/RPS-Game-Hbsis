@@ -8,12 +8,12 @@ namespace RPS_Tournament_Test
     [TestClass]
     public class GameTest
     {
-        private string[] _playerOne = { "Armando", "P" };
-        private string[] _playerTwo = { "Dave", "S" };
-        private string[] _playerThree = { "Richard", "R" };
-        private string[] _playerFour = { "Michael", "S" };
-        private string[] _playerFive = { "David E.", "R" };
-        private string[] _playerSix = { "Richard X.", "P" };
+        private readonly string[] _playerOne = { "Armando", "P" };
+        private readonly string[] _playerTwo = { "Dave", "S" };
+        private readonly string[] _playerThree = { "Richard", "R" };
+        private readonly string[] _playerFour = { "Michael", "S" };
+        private readonly string[] _playerFive = { "David E.", "R" };
+        private readonly string[] _playerSix = { "Richard X.", "P" };
 
         [TestMethod]
         public void GameTestMethodSWin()
